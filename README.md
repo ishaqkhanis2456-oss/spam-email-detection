@@ -1,39 +1,28 @@
-# 📧 Spam Email Detection - AI & Machine Learning
+ 📧 Spam Email Detection - AI Project
 
-> An intelligent AI model to detect Spam vs Ham emails using Python, NLP & Naive Bayes - Built with 97%+ Accuracy
+An AI model that detects spam emails with 98.29% accuracy
+> Built with Python, NLP & Machine Learning
 
-### 🚀 Live Demo & Tech Stack
-- **Language:** Python
-- **Libraries:** Pandas, Scikit-Learn, CountVectorizer
-- **Algorithm:** Multinomial Naive Bayes
-- **Concept:** Natural Language Processing (NLP)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![ML](https://img.shields.io/badge/ML-Naive%20Bayes-green)
+![Accuracy](https://img.shields.io/badge/Accuracy-98.29%25-brightgreen)
 
-### 📁 What's Inside?
-| File | Description |
-|------|-------------|
-| `spam.csv` | Dataset - 5572 emails (Spam/Ham) |
-| `Spam-Detection.ipynb` | Main code - Model training & testing |
+👨‍💻 About Me
+**M.Ishaq Khalil**
+- BSCS 3rd Semester | Peshawar, Pakistan
+- Passionate about AI & Machine Learning
+- GitHub: [@ishaqkhanis2456-oss](https://github.com/ishaqkhanis2456-oss)
 
-### 🎯 Model Performance
-- **Accuracy:** 97.5%
-- **Dataset:** 5572 messages
-- **Features:** Text converted to numbers using Bag of Words
+ Project Overview
+This project classifies SMS/Emails as Spam or Ham (Not Spam) using Natural Language Processing.
 
-### 💡 How It Works?
-1. Loads email dataset
-2. Converts text messages into numbers
-3. Trains AI model to learn spam words (Free, Win, Prize, Urgent)
-4. Predicts new messages as Spam or Not Spam
+Dataset: 5572 messages (4825 Ham, 747 Spam)
+Accuracy: 98.29%
 
-### 👨‍💻 Created By
-**Ishaq Khan**
-AI Student | Python Developer
-Hayatabad, Peshawar, Pakistan
-GitHub: @ishaqkhanis2456-oss
+🛠️ Tech Stack
+- Python
+- Pandas, Scikit-learn
+- NLP - CountVectorizer
+- Algorithm - Multinomial Naive Bayes
 
-### 🔗 How to Run?
-1. Open `Spam-Detection.ipynb` in Google Colab
-2. Upload `spam.csv`
-3. Run all cells -> See accuracy & test your own messages
-
-⭐ If you like this project, give it a star!
+📊 Results
