@@ -26,3 +26,4 @@ Accuracy: 98.29%
 - Algorithm - Multinomial Naive Bayes
 
 📊 Results
+Update: Added accuracy chart 
